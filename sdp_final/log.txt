@@ -1,0 +1,39 @@
+The Door opened
+The Door closed
+kitchen : Lights off
+bedroom : Lights off
+kitchen : Lights ON
+bedroom : Lights ON
+Payment processed using the Kaspi strategy.
+The Door opened
+The Door closed
+kitchen : Lights off
+bedroom : Lights off
+kitchen : Lights ON
+bedroom : Lights ON
+Payment processed using the Kaspi strategy. amount: 50.0
+The Door opened
+The Door closed
+The Door opened
+The Door closed
+The Door opened
+The Door closed
+The Door opened
+The Door closed
+The Door opened
+The Door opened
+The Door closed
+The Door opened
+Payment processed using the Kaspi strategy. amount: 50.0
+Payment processed using the Kaspi strategy. amount: 50.0
+Payment processed using the Kaspi strategy. amount: 30.0
+Payment processed using the Kaspi strategy. amount: 110.0
+order: dumplings, with mayonnaise, with ketchup, with ketchup, with mayonnaise is ordered. It takes 21.200000000000003 minutes
+
+order: mantas is ordered. It takes 30.0 minutes
+
+order: dumplings, with ketchup, with ketchup, with mayonnaise is ordered. It takes 20.900000000000002 minutes
+
+the gardener is called
+
+Payment processed using the Halyk strategy. amount: 10.0
